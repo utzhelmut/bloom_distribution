@@ -1,0 +1,3 @@
+<INCLUDE_TYPOSCRIPT:source="FILE: EXT:bloom_distribution/Configuration/TypoScript/Setup/page.ts">
+<INCLUDE_TYPOSCRIPT:source="FILE: EXT:bloom_distribution/Configuration/TypoScript/Setup/libs.ts">
+
